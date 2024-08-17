@@ -9,20 +9,10 @@ Before we dive into the rabbit hole, let’s get one thing straight: This guide 
 
 ### Speculative Attack Project Tracker
 
-| **Name** | **Overvalued Ratio** | **Current Market Cap (USD)** | **Team Credibility Score (1-10)** | **Hype Level (1-10)** | **Technical Red Flags** | **Social Sentiment (1-10)** | **Final Verdict** |
-|------------------|----------------------|-----------------------------|-----------------------------------|-----------------------|-------------------------|---------------------------|-------------------|
-| [Akash](./projects/akash)       | 5.2x                 | $998M                        | 3                                 | 8                     | Weak Security Protocols | 9                         | High Risk         |
+| **Name** | **Overvalued Ratio** | **Market Cap (USD)** | **Counter Party Risk (1-10)** | **Hype Level (1-10)** | **Red Flags** | **Final Verdict** |
+|------------------|----------------------|-----------------------------|-----------------------------------|-----------------------|-------------------------|---------------------------|
+| [Akash](./projects/akash)       | 18x                 | $998M                        | 3                                 | 8                     | Weak Utility | High Risk         |
 
-### Column Explanations
-
-- **Project Name**: The name of the crypto project you're analyzing.
-- **Overvalued Ratio**: The ratio indicating how overvalued the project is compared to its fundamentals (e.g., 5.2x means it's valued at 5.2 times more than what seems reasonable).
-- **Current Market Cap (USD)**: The current market capitalization of the project in USD.
-- **Team Credibility Score (1-10)**: An assessment of the team's experience, reputation, and past successes, with 10 being the highest.
-- **Hype Level (1-10)**: The current level of hype or buzz around the project, with 10 being the highest.
-- **Technical Red Flags**: Any technical concerns such as weak security, unsustainable reward systems, or centralized control.
-- **Social Sentiment (1-10)**: The general sentiment in the community, with 10 being extremely positive and 1 being highly negative.
-- **Final Verdict**: Your overall assessment of the project's risk level (e.g., High Risk, Medium Risk, Low Risk).
 
 You can use this table as a guide to analyze and track multiple projects, making it easier to identify the most overvalued and risky ones to potentially target for a speculative attack.
 
